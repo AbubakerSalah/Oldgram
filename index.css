@@ -36,8 +36,9 @@ strong {
 footer {
   background-color: #ffff;
   width: 376px;
-  height: 110px;
+  height: 117px;
   margin-top: 0px;
+  
 }
 
 h3 {
@@ -130,8 +131,9 @@ h4:hover,
 
 .save-icons {
   width: 22px;
-  margin: 9px;
-  margin-left: 230px;
+  height: 20px;
+  margin-top: 8px;
+  margin-left: 240px;
   cursor: pointer;
 }
 
@@ -140,6 +142,18 @@ h4:hover,
   display: flex;
   flex-direction: column;
   margin-top: 0px;
+}
+
+.footer {
+  
+  height: 150px;
+}
+
+.date {
+  
+  margin-top: 10px;
+  font-size: 11px;
+  color: #4e4e4e;
 }
 
 
