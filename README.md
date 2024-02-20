@@ -3,7 +3,7 @@ Instagram clone built with HTML, CSS and Vanilla JavaScript.
 
 View the finished project on [Netlify](https://oldgram-abu.netlify.app)!
 
-<img width="500" alt="oldagram-showcase" src="![Screenshot 2024-02-18 at 16 56 41](https://github.com/AbubakerSalah/Oldgram/assets/137734278/2f635823-a47c-48d1-8ea6-d247bac358c3)">
+![Screenshot 2024-02-18 at 16 56 41](https://github.com/AbubakerSalah/Oldgram/assets/137734278/2f635823-a47c-48d1-8ea6-d247bac358c3)
 
 
 ## About
