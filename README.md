@@ -3,7 +3,7 @@ Instagram clone built with HTML, CSS and Vanilla JavaScript.
 
 View the finished project on [Netlify](https://oldgram-abu.netlify.app)!
 
-<img width="500" alt="oldagram-showcase" src="">
+<img width="500" alt="oldagram-showcase" src="![Screenshot 2024-02-18 at 16 56 41](https://github.com/AbubakerSalah/Oldgram/assets/137734278/2f635823-a47c-48d1-8ea6-d247bac358c3)">
 
 
 ## About
@@ -29,3 +29,6 @@ Code Organization: Maintained structured and organized code for better readabili
 
 ## Author
 
+<div>
+  <a href= "https://www.linkedin.com/in/abubaker-ahmed-205483287"target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="My Linkedin profile"></a>
+</div>
