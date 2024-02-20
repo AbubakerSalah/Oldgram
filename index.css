@@ -53,12 +53,11 @@ h4 {
   color: #008cff;
   font-size: 14px;
   font-weight: 450;
-  margin-right: 7px;
+  margin-left: 150px;
 }
 
 h4:hover,
 :focus {
-
   color: #014372;
   cursor: pointer;
   
@@ -69,7 +68,6 @@ h4:hover,
   background-color: #ffff;
   width: 375px;
   height: 56px;
-  font-size: 10px;
   padding-left: 4px;
   margin: 0 auto;
   display: flex;
