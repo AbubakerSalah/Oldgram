@@ -49,11 +49,15 @@ h3 {
 }
 
 h4 {
-  margin-left: 150px;
   color: #008cff;
   font-size: 14px;
   font-weight: 450;
-  margin-left: 150px;
+  position: absolute;
+  right: 0;
+  top: 0;
+  margin-right: 10px;
+  
+  
 }
 
 h4:hover,
@@ -73,6 +77,7 @@ h4:hover,
   display: flex;
   flex-direction: row;
   align-items: center;
+  position: relative;
 }
 
 .logo-container {
@@ -99,7 +104,6 @@ h4:hover,
 
 
 
-
 .main-pic {
   margin: 0 auto;
   width: 375px;
@@ -118,7 +122,6 @@ h4:hover,
   width: 22px;
   margin: 10px;
   margin-left: 0px;
-  margin-right: 10px;
   cursor: pointer;
 }
 
