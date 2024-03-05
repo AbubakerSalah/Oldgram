@@ -30,5 +30,5 @@ Code Organization: Maintained structured and organized code for better readabili
 ## Author
 
 <div>
-  <a href= "https://www.linkedin.com/in/abubaker-ahmed-205483287"target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="My Linkedin profile"></a>
+  <a href= "http://linkedin.com/in/abubaker-salah-205483287"target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="My Linkedin profile"></a>
 </div>
